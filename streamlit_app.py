@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["키오프 나띠는 예쁘다"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://i.namu.wiki/i/CuOr1J7xJMwXjDWCKY5XXeEDJi3OE-4uDIN-rCYRBdf0oMSp06AhT7ETlVGTu59nQvpU9nni4P1HjuXttJlfQw.webp"],
        "videos": ["https://www.youtube.com/shorts/HHuyym_v3fw"]
      },
 }
