@@ -74,6 +74,18 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i.namu.wiki/i/CuOr1J7xJMwXjDWCKY5XXeEDJi3OE-4uDIN-rCYRBdf0oMSp06AhT7ETlVGTu59nQvpU9nni4P1HjuXttJlfQw.webp"],
        "videos": ["https://www.youtube.com/shorts/1Op4GNQ9i5g"]
      },
+
+     labels[1]: {
+       "texts": ["키오프 하늘은 예쁘다"],
+       "images": ["https://i.namu.wiki/i/CuOr1J7xJMwXjDWCKY5XXeEDJi3OE-4uDIN-rCYRBdf0oMSp06AhT7ETlVGTu59nQvpU9nni4P1HjuXttJlfQw.webp"],
+       "videos": ["https://www.youtube.com/shorts/1Op4GNQ9i5g"]
+     },
+
+     labels[2]: {
+       "texts": ["키오프 벨은 예쁘다"],
+       "images": ["https://i.namu.wiki/i/CuOr1J7xJMwXjDWCKY5XXeEDJi3OE-4uDIN-rCYRBdf0oMSp06AhT7ETlVGTu59nQvpU9nni4P1HjuXttJlfQw.webp"],
+       "videos": ["https://www.youtube.com/shorts/1Op4GNQ9i5g"]
+     },
 }
 
 # ======================
