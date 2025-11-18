@@ -76,15 +76,15 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 
      labels[1]: {
-       "texts": ["키오프 하늘은 예쁘다"],
-       "images": ["https://i.namu.wiki/i/CuOr1J7xJMwXjDWCKY5XXeEDJi3OE-4uDIN-rCYRBdf0oMSp06AhT7ETlVGTu59nQvpU9nni4P1HjuXttJlfQw.webp"],
-       "videos": ["https://www.youtube.com/shorts/1Op4GNQ9i5g"]
+       "texts": ["키오프 벨은 예쁘다"],
+       "images": ["https://cdn.nc.press/news/photo/202511/577194_739649_5119.jpg"],
+       "videos": ["https://www.youtube.com/shorts/7FcWiHc8bc4"]
      },
 
      labels[2]: {
-       "texts": ["키오프 벨은 예쁘다"],
-       "images": ["https://i.namu.wiki/i/CuOr1J7xJMwXjDWCKY5XXeEDJi3OE-4uDIN-rCYRBdf0oMSp06AhT7ETlVGTu59nQvpU9nni4P1HjuXttJlfQw.webp"],
-       "videos": ["https://www.youtube.com/shorts/1Op4GNQ9i5g"]
+       "texts": ["키오프 하늘은 예쁘다"],
+       "images": ["https://newsimg.sedaily.com/2023/12/02/29YCUE5QNT_1.jpg"],
+       "videos": ["https://www.youtube.com/shorts/HHuyym_v3fw"]
      },
 }
 
